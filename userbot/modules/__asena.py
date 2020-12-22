@@ -4,7 +4,7 @@
 # you may not use this file except in compliance with the License.
 #
 
-# Asena UserBot - Yusuf Usta
+# Asena UserBot - Zeus Usta
 #
 
 """ UserBot yardım komutu """
@@ -22,7 +22,7 @@ LANG = get_value("__zeus")
 # ████████████████████████████████ #
 
 @register(outgoing=True, pattern="^.zeus(?: |$)(.*)")
-async def asena(event):
+async def zeus(event):
     """ .zeus komutu için """
     args = event.pattern_match.group(1).lower()
     if args:
