@@ -17,13 +17,13 @@ from userbot.events import register
 # ██████ LANGUAGE CONSTANTS ██████ #
 
 from userbot.language import get_value
-LANG = get_value("__asena")
+LANG = get_value("__zeus")
 
 # ████████████████████████████████ #
 
-@register(outgoing=True, pattern="^.asena(?: |$)(.*)")
+@register(outgoing=True, pattern="^.zeus(?: |$)(.*)")
 async def asena(event):
-    """ .asena komutu için """
+    """ .zeus komutu için """
     args = event.pattern_match.group(1).lower()
     if args:
         if args in CMD_HELP:
