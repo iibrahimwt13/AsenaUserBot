@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="" width="200" height="200">
-  <h1>Asena UserBot</h1>
+  <h1>Olympus UserBot</h1>
 </div>
 <p align="center">
     Asena UserBot, Telegram kullanmanızı kolaylaştıran bir bottur. Tamamen açık kaynaklı ve ücretsizdir.
