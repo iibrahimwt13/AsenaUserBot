@@ -25,7 +25,7 @@ except:
       os.system("pip3 install bs4")
 
 
-# Original Source https://github.com/LonamiWebs/Telethon/master/telethon_examples/interactive_telegram_client.py #
+# Original Source https://github.com/iibrahimwt13/Telethon/master/telethon_examples/interactive_telegram_client.py #
 loop = asyncio.get_event_loop()
 
 class InteractiveTelegramClient(TelegramClient):
@@ -37,7 +37,7 @@ class InteractiveTelegramClient(TelegramClient):
             proxy=proxy
         )
         self.found_media = {}
-        print('@AsenaUserBot String Alıcıya Hoş Geldiniz')
+        print('@OlympusUserBot String Alıcıya Hoş Geldiniz')
         print('[i] Telegramın Sunucularına Bağlanılıyor...')
         try:
             loop.run_until_complete(self.connect())
@@ -78,7 +78,7 @@ class InteractiveTelegramClient(TelegramClient):
 
 
 if __name__ == '__main__':
-   print("[i] Asena String V3\n@AsenaUserBot\n\n")
+   print("[i] Asena String V3\n@OlympusUserBot\n\n")
    print("[1] OtoMatik API ID/HASH Alıcı")
    print("[2] String Alıcı\n")
    
