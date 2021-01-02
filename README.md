@@ -2,11 +2,11 @@
   <h1>Olympus UserBot</h1>
 </div>
 <p align="center">
-    Asena UserBot, Telegram kullanmanızı kolaylaştıran bir bottur. Tamamen açık kaynaklı ve ücretsizdir.
+    Olympus UserBot, Telegram kullanmanızı kolaylaştıran bir bottur. Tamamen açık kaynaklı ve ücretsizdir.
     <br>
-        <a href="https://github.com/quiec/AsenaUserBot/blob/master/README.md#kurulum">Kurulum</a> |
-        <a href="https://github.com/Quiec/AsenaUserBot/wiki/G%C3%BCncelleme">Güncelleme</a> |
-        <a href="https://t.me/AsenaUserBot">Telegram Kanalı</a>
+        <a href="https://github.com/iibrahimwt13/AsenaUserBot/blob/master/README.md#kurulum">Kurulum</a> |
+        <a href="https://github.com/iibrahimwt13/AsenaUserBot/wiki/G%C3%BCncelleme">Güncelleme</a> |
+        <a href="https://t.me/olympuss10">Telegram Kanalı</a>
     <br>
 </p>
 
